@@ -123,9 +123,9 @@ https://localhost:7118/api/cats/getCatsPerPage?page=1&pageSize=10
    ........
 ```
 #### 4. Get Cats By Tag (Pagination)
-```https: i.e. input values for tag: 'active', page: 1, pagesize: 10
+```https: i.e. input values for tag: 'active', page: 1, pagesize: 2
 GET /api/cats/getCatsByTag
-https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=10
+https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=2
 ```
 ```Response body:
 
@@ -167,7 +167,7 @@ https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=10
           "Playful"
         ]
       }
-    },
+    }
 ```
 
 
