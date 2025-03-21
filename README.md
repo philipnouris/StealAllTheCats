@@ -21,7 +21,12 @@ Before running the project, ensure you have:
 ---
 
 ## Installation Steps
-### **Clone the Repository**
+### ** 1. Clone the Repository**
 ```sh
 git clone https://github.com/philipnouris/StealAllTheCats.git
 cd ./StealAllTheCats
+
+### ** 2. Clone the Repository**
+
+
+
