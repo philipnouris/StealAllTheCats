@@ -20,28 +20,28 @@ Before running the project, ensure you have:
 
 ---
 
-## Installation Steps
-###1. Clone the Repository
+# Installation Steps
+##1. Clone the Repository
 ```sh
 git clone https://github.com/philipnouris/StealAllTheCats.git
 cd ./StealAllTheCats
 ```
 
-###2. Configure Database Connection
-####1. Open appsettings.json and modify the ConnectionStrings:
+##2. Configure Database Connection
+###1. Open appsettings.json and modify the ConnectionStrings:
 ```
 "ConnectionStrings": {
   "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=StealAllTheCatsDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 ```
-####2. Replace YOUR_SERVER_NAME with your SQL Server Instance (e.g. STEALCATSDB\\SQLEXPRESS)
+###2. Replace YOUR_SERVER_NAME with your SQL Server Instance (e.g. STEALCATSDB\\SQLEXPRESS)
 
-###3. Install Dependencies
+##3. Install Dependencies
 
 Run the follwoing command:
 ```dotnet restore```
 
-###4. Set up Database
+##4. Set up Database
 Run these commands to apply database migrations:
 ```
 dotnet ef migrations add InitialCreate
@@ -49,22 +49,22 @@ dotnet ef database update
 ```
 This will create the required tables in SQL Server
 
-###5. Configure API URL and API Key
+##5. Configure API URL and API Key
 ```To change the API URL or API Key, modify the appsettings.json file
 "CatApi": {
   "BaseUrl": "https://api.thecatapi.com/v1/images/search?limit=25&has_breeds=1",
   "ApiKey": "YOUR_API_KEY_HERE"
 }
 ```
-###6. Run the APplication
+##6. Run the APplication
 Start the application either with:
 ```
 dotnet run
 ```
 Or simply run https button from the Visual studio 2022
 
-###7. API Endpoints
-####1. Fetch 25 Cats from API and Store in Database
+##7. API Endpoints
+###1. Fetch 25 Cats from API and Store in Database
 ```https
 POST /api/cats/fetch
 https://localhost:7118/api/cats/fetch
@@ -74,7 +74,7 @@ https://localhost:7118/api/cats/fetch
   "message": "Cats fetched and stored successfully!"
 }
 ```
-####2. Get Cat By Id
+###2. Get Cat By Id
 
 ```https: i.e. input value of id: 26
 GET /api/cats/{id}
@@ -93,7 +93,7 @@ https://localhost:7118/api/cats/26
   }
 }
 ```
-####3. Get Cats per Page (Pagination)
+###3. Get Cats per Page (Pagination)
 ```https: i.e. input values for page: 1 and pagesize: 10 
 GET /api/cats/getCatsPerPage
 https://localhost:7118/api/cats/getCatsPerPage?page=1&pageSize=10
@@ -122,7 +122,7 @@ https://localhost:7118/api/cats/getCatsPerPage?page=1&pageSize=10
     },
    ........
 ```
-####4. Get Cats By Tag (Pagination)
+###4. Get Cats By Tag (Pagination)
 ```https: i.e. input values for tag: 'active', page: 1, pagesize: 10
 GET /api/cats/getCatsByTag
 https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=10
