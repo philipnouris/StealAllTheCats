@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Program.cs",
+              "RelativeDocumentMoniker": "StealAllTheCats\\Program.cs",
+              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Program.cs",
+              "RelativeToolTip": "StealAllTheCats\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:02:17.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Tag.cs",
               "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "StealAllTheCats\\Models\\Tag.cs",
@@ -38,8 +54,7 @@
               "RelativeToolTip": "StealAllTheCats\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:48:51.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:48:51.828Z"
             },
             {
               "$type": "Document",
@@ -49,10 +64,9 @@
               "RelativeDocumentMoniker": "StealAllTheCats\\Models\\Cat.cs",
               "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Models\\Cat.cs",
               "RelativeToolTip": "StealAllTheCats\\Models\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:48:19.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:48:19.045Z"
             },
             {
               "$type": "Document",
@@ -62,7 +76,7 @@
               "RelativeDocumentMoniker": "StealAllTheCats\\Servcices\\CatService.cs",
               "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Servcices\\CatService.cs",
               "RelativeToolTip": "StealAllTheCats\\Servcices\\CatService.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAIwIQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAEwFsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:55:52.281Z",
               "EditorCaption": ""
@@ -75,7 +89,7 @@
               "RelativeDocumentMoniker": "StealAllTheCats\\Controllers\\CatsController.cs",
               "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Controllers\\CatsController.cs",
               "RelativeToolTip": "StealAllTheCats\\Controllers\\CatsController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAswFAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwC4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:51:08.291Z",
               "EditorCaption": ""
