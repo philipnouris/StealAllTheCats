@@ -170,5 +170,20 @@ https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=2
     }
 ```
 
+### 8. Running Unit Tests
+I used **xUnit** for testing, **Moq** for mocking dependencies, and **Entity Framework InMemory** for database tests.
+
+---
+### **Libraries you will need to install for Unit Tests**
+
+```sh
+dotnet restore
+dotnet add StealAllTheCats.Tests package Moq
+dotnet add StealAllTheCats.Tests package Microsoft.EntityFrameworkCore.InMemory
+```
+### **To run tests**
+```sh
+dotnet test
+```
 
 
