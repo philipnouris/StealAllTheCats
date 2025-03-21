@@ -2,7 +2,7 @@
 
 This is a RESTful API that fetches cat images from [TheCatAPI](https://thecatapi.com/) and stores them in a Microsoft SQL Server database using Entity Framework Core.
 
-##Features
+## Features
 - Fetch and store cat images with their tags.
 - Retrieve cats by ID.
 - Paginated retrieval of cats.
