@@ -50,8 +50,7 @@
               "RelativeToolTip": "StealAllTheCats\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T10:08:33.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T10:08:33.726Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "StealAllTheCats\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T08:03:14.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T08:03:14.591Z"
             },
             {
               "$type": "Document",
@@ -86,7 +84,7 @@
               "RelativeDocumentMoniker": "StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
               "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
               "RelativeToolTip": "StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAqwHIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T16:45:29.071Z",
               "EditorCaption": ""
@@ -125,8 +123,7 @@
               "RelativeToolTip": "StealAllTheCats.Test\\StealAllTheCats.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T16:34:12.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:34:12.863Z"
             }
           ]
         }
