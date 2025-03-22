@@ -21,7 +21,22 @@ public partial class StealAllTheCatsDbContext : DbContext
     public virtual DbSet<Tag> Tags { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Name=DefaultConnection");
+    {
+        if (!optionsBuilder.IsConfigured) // Prevent double configuration
+        {
+            // Check if we are in a test environment
+            var environment = Environment.GetEnvironmentVariable("DOTNET_ENVIRONMENT");
+
+            if (environment == "Testing")
+            {
+                optionsBuilder.UseInMemoryDatabase("TestDatabase"); //Use InMemoryDatabase for tests
+            }
+            else
+            {
+                optionsBuilder.UseSqlServer("Name=DefaultConnection"); //Use SQL Server for production
+            }
+        }
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

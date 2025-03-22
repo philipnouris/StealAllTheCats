@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wY7amZvVcPI=",
+  "dgSpecHash": "UJ5gzjc0/Ns=",
   "success": true,
   "projectFilePath": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\pnour\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\pnour\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.3\\microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",
     "C:\\Users\\pnour\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.3\\microsoft.entityframeworkcore.design.9.0.3.nupkg.sha512",
+    "C:\\Users\\pnour\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.3\\microsoft.entityframeworkcore.inmemory.9.0.3.nupkg.sha512",
     "C:\\Users\\pnour\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.3\\microsoft.entityframeworkcore.relational.9.0.3.nupkg.sha512",
     "C:\\Users\\pnour\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.3\\microsoft.entityframeworkcore.sqlserver.9.0.3.nupkg.sha512",
     "C:\\Users\\pnour\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -17,10 +17,17 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.WriteIndented = true;
     });
 
-//Register SQL Server
-builder.Services.AddDbContext<StealAllTheCatsDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
-);
+//if tests are used run only inMemory DB else Register SQL Server
+if (builder.Environment.IsEnvironment("Testing"))
+{
+    builder.Services.AddDbContext<StealAllTheCatsDbContext>(options =>
+        options.UseInMemoryDatabase("TestDatabase"));
+}
+else
+{
+    builder.Services.AddDbContext<StealAllTheCatsDbContext>(options =>
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+}
 
 
 builder.Services.AddHttpClient();
