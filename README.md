@@ -31,7 +31,7 @@ cd ./StealAllTheCats
 ###1. Open appsettings.json and modify the ConnectionStrings:
 ```
 "ConnectionStrings": {
-  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=StealAllTheCatsDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=StealCatsDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 ```
 #### 2. Replace YOUR_SERVER_NAME with your SQL Server Instance (e.g. localhost\)
