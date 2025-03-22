@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StealAllTheCats.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84840defac61d3dac72d7c866e999f32421c65b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3bc29c1a3d73b4087347fa683a5698842c8e526")]
 [assembly: System.Reflection.AssemblyProductAttribute("StealAllTheCats.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StealAllTheCats.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

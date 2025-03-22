@@ -1,5 +1,6 @@
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\appsettings.Development.json
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\appsettings.json
+E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\StealAllTheCats.staticwebassets.endpoints.json
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\StealAllTheCats.exe
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\StealAllTheCats.deps.json
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\StealAllTheCats.runtimeconfig.json
@@ -125,7 +126,9 @@ E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\Ste
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\scopedcss\bundle\StealAllTheCats.styles.css
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets.build.json
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets\msbuild.StealAllTheCats.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets\msbuild.StealAllTheCats.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets\msbuild.build.StealAllTheCats.props
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StealAllTheCats.props
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StealAllTheCats.props
@@ -136,6 +139,3 @@ E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\ref
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\StealAllTheCats.pdb
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\StealAllTheCats.genruntimeconfig.cache
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\ref\StealAllTheCats.dll
-E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\bin\Debug\net8.0\StealAllTheCats.staticwebassets.endpoints.json
-E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets\msbuild.StealAllTheCats.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
