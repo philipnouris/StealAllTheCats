@@ -171,3 +171,4 @@ E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\ref
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\StealAllTheCats.pdb
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\StealAllTheCats.genruntimeconfig.cache
 E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\ref\StealAllTheCats.dll
+E:\Projects\StealAllTheCats\StealAllTheCats\StealAllTheCats\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

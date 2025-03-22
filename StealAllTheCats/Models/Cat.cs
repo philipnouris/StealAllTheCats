@@ -16,8 +16,8 @@ public partial class Cat
     public int Height { get; set; }
     [Required]
     public string ImageUrl { get; set; } = null!;
-    
-    public DateTime? Created { get; set; }
+
+    public DateTime? Created { get; set; } = DateTime.UtcNow;
 
     public virtual ICollection<Tag> Tags { get; set; } = new List<Tag>();
 }
