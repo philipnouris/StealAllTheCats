@@ -3,32 +3,22 @@
   "WorkspaceRootPath": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\data\\stealallthecatsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\data\\stealallthecatsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\migrations\\stealallthecatsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\migrations\\stealallthecatsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF73C7A5-5524-4CD1-8953-7E5367AF35C2}|StealAllTheCats.Test\\StealAllTheCats.Test.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats.test\\stealallthecats.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CF73C7A5-5524-4CD1-8953-7E5367AF35C2}|StealAllTheCats.Test\\StealAllTheCats.Test.csproj|solutionrelative:stealallthecats.test\\stealallthecats.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\stealallthecats.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\stealallthecats.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF73C7A5-5524-4CD1-8953-7E5367AF35C2}|StealAllTheCats.Test\\StealAllTheCats.Test.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats.test\\services\\catservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF73C7A5-5524-4CD1-8953-7E5367AF35C2}|StealAllTheCats.Test\\StealAllTheCats.Test.csproj|solutionrelative:stealallthecats.test\\services\\catservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|e:\\projects\\stealallthecats\\stealallthecats\\stealallthecats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89909762-18CB-453E-A87E-1676B5E1C563}|StealAllTheCats\\StealAllTheCats.csproj|solutionrelative:stealallthecats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +28,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "StealAllTheCats\\Models\\Tag.cs",
-              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Models\\Tag.cs",
-              "RelativeToolTip": "StealAllTheCats\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T10:08:33.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Models\\Cat.cs",
-              "RelativeDocumentMoniker": "StealAllTheCats\\Models\\Cat.cs",
-              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Models\\Cat.cs",
-              "RelativeToolTip": "StealAllTheCats\\Models\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T10:07:32.859Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\appsettings.json",
-              "RelativeDocumentMoniker": "StealAllTheCats\\appsettings.json",
-              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\appsettings.json",
-              "RelativeToolTip": "StealAllTheCats\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T08:03:14.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StealAllTheCatsDbContext.cs",
-              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
-              "RelativeDocumentMoniker": "StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
-              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
-              "RelativeToolTip": "StealAllTheCats\\Data\\StealAllTheCatsDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:45:29.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Program.cs",
-              "RelativeDocumentMoniker": "StealAllTheCats\\Program.cs",
-              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Program.cs",
-              "RelativeToolTip": "StealAllTheCats\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:42:13.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CatServiceTests.cs",
-              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.Test\\Services\\CatServiceTests.cs",
-              "RelativeDocumentMoniker": "StealAllTheCats.Test\\Services\\CatServiceTests.cs",
-              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.Test\\Services\\CatServiceTests.cs",
-              "RelativeToolTip": "StealAllTheCats.Test\\Services\\CatServiceTests.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:34:50.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StealAllTheCats.Test.csproj",
+              "Title": "StealAllTheCats.Test",
               "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.Test\\StealAllTheCats.Test.csproj",
               "RelativeDocumentMoniker": "StealAllTheCats.Test\\StealAllTheCats.Test.csproj",
               "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.Test\\StealAllTheCats.Test.csproj",
               "RelativeToolTip": "StealAllTheCats.Test\\StealAllTheCats.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T16:34:12.863Z"
+              "WhenOpened": "2025-03-22T22:18:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StealAllTheCats",
+              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.csproj",
+              "RelativeDocumentMoniker": "StealAllTheCats\\StealAllTheCats.csproj",
+              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats.csproj",
+              "RelativeToolTip": "StealAllTheCats\\StealAllTheCats.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T22:17:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StealAllTheCatsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Migrations\\StealAllTheCatsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StealAllTheCats\\Migrations\\StealAllTheCatsDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Projects\\StealAllTheCats\\StealAllTheCats\\StealAllTheCats\\Migrations\\StealAllTheCatsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StealAllTheCats\\Migrations\\StealAllTheCatsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:14:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwLUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-22T22:12:11.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAGYAAAAAAAAAAAD4v38AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-22T22:10:29.012Z",
+              "EditorCaption": ""
             }
           ]
         }

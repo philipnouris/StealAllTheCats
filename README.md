@@ -197,6 +197,7 @@ dotnet add StealAllTheCats.Tests package Microsoft.EntityFrameworkCore.InMemory
 ```
 ### **To run tests**
 ```sh
+cd .\StealAllTheCats.Test
 dotnet test
 ```
 
