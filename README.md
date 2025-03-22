@@ -55,9 +55,13 @@ Run these commands to apply database migrations (go to *Tools* > *NutGet Package
 ```
 cd ./StealAllTheCats (if you are not in the project directory already)
 Add-Migration InitialCreate
+
 Update-database 
+
 OR
+
 dotnet ef migrations add InitialCreate
+
 dotnet ef database update
 ```
 This will create the required tables in SQL Server
