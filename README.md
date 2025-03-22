@@ -34,40 +34,52 @@ cd ./StealAllTheCats
   "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=StealAllTheCatsDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 ```
-#### 2. Replace YOUR_SERVER_NAME with your SQL Server Instance (e.g. STEALCATSDB\\SQLEXPRESS)
+#### 2. Replace YOUR_SERVER_NAME with your SQL Server Instance (e.g. localhost\)
 
-### 3. Install Dependencies
+### 3. Install Dependencies and Setup Database
 
 Run the follwoing command:
-```dotnet restore```
-
-### 4. Set up Database
-Run these commands to apply database migrations:
 ```
+dotnet restore
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+Install-Package Microsoft.EntityFrameworkCore.Tools or dotnet tool install --global dotnet-ef
+/
+Update-Package Microsoft.EntityFrameworkCore.Tools or dotnet tool update --global dotnet-ef
+
+```
+
+## Set up Database
+Run these commands to apply database migrations (go to *Tools* > *NutGet Package Manager* > *Package Manager Console*):
+```
+cd ./StealAllTheCats (if you are not in the project directory already)
+Add-Migration InitialCreate
+Update-database 
+OR
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 ```
 This will create the required tables in SQL Server
 
-### 5. Configure API URL and API Key
+### 4. Configure API URL and API Key
 ```To change the API URL or API Key, modify the appsettings.json file
 "CatApi": {
   "BaseUrl": "https://api.thecatapi.com/v1/images/search?limit=25&has_breeds=1",
   "ApiKey": "YOUR_API_KEY_HERE"
 }
 ```
-### 6. Run the APplication
+### 5. Run the APplication
 Start the application either with:
 ```
 dotnet run
 ```
 Or simply run https button from the Visual studio 2022
 
-### 7. API Endpoints
+### 6. API Endpoints
 #### 1. Fetch 25 Cats from API and Store in Database
-```https
+```
 POST /api/cats/fetch
-https://localhost:7118/api/cats/fetch
 ```
 ```Response body:
 {
@@ -76,9 +88,8 @@ https://localhost:7118/api/cats/fetch
 ```
 #### 2. Get Cat By Id
 
-```https: i.e. input value of id: 26
+``` i.e. input value of id: 26
 GET /api/cats/{id}
-https://localhost:7118/api/cats/26
 ```
 ```Response body:
 {
@@ -96,7 +107,6 @@ https://localhost:7118/api/cats/26
 #### 3. Get Cats per Page (Pagination)
 ```https: i.e. input values for page: 1 and pagesize: 10 
 GET /api/cats/getCatsPerPage
-https://localhost:7118/api/cats/getCatsPerPage?page=1&pageSize=10
 ```
 ```Response body:
 {
@@ -123,7 +133,7 @@ https://localhost:7118/api/cats/getCatsPerPage?page=1&pageSize=10
    ........
 ```
 #### 4. Get Cats By Tag (Pagination)
-```https: i.e. input values for tag: 'active', page: 1, pagesize: 2
+```i.e. input values for tag: 'active', page: 1, pagesize: 2
 GET /api/cats/getCatsByTag
 https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=2
 ```
@@ -170,7 +180,7 @@ https://localhost:7118/api/cats/getCatsByTag?tag=active&page=1&pageSize=2
     }
 ```
 
-### 8. Running Unit Tests
+### 7. Running Unit Tests
 I used **xUnit** for testing, **Moq** for mocking dependencies, and **Entity Framework InMemory** for database tests.
 
 ---
